@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Change Background On Click",
+  "name": "Mastodon Quick Follow",
   "version": "0.0.1",
   "content_scripts": [
     {
